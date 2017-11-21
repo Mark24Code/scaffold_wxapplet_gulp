@@ -1,0 +1,26 @@
+{
+  "name": "scaffold_wxapplet_gulp",
+  "version": "0.0.1",
+  "description": "微信小程序脚手架",
+  "main": "gulpfile.js",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-changed": "^2.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-uglify": "^2.1.2",
+    "gulp-webserver": "^0.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark24",
+  "license": "MIT"
+}
